@@ -5,8 +5,6 @@ echo "every puppy you see, but not the flowers" > us/them/03spoil
 echo "decisions make conscious efforts" > this/that/theother/04conscious
 echo "take you out for a steak dinner" > this/05gonna
 echo "bike all the way to town using only one leg and an expensive hat" > this/that/06bike
-echo "people beatbox their way into my heart" > one/kindhearted
-rm one/kindhearted
 echo "people beatbox their way into my heart" > one/07kindhearted
 echo "the difference between these two pictures" > one/two/three/08spot
 echo "is the first day of your new life as a living thing" > one/two/three/09today
