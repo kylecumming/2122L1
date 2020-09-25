@@ -4,7 +4,7 @@
     4  echo "every puppy you see, but not the flowers" > us/them/03spoil 
     5  echo "decisions make conscious efforts" > this/that/theother/04conscious
     6  echo "take you out for a steak dinner" > this/05gonna
-    7  echo "bike all the way to town using only one leg and an expensive hat" > this/that/06bike
+    7  echo "all the way to town using only one leg and an expensive hat" > this/that/06bike
     8  echo "people beatbox their way into my heart" > one/kindhearted
     9  rm one/kindhearted
    10  echo "people beatbox their way into my heart" > one/07kindhearted
