@@ -19,5 +19,4 @@ echo "picking flowers and sing me a song about not letting anything go, ever" > 
 echo "ity killed the cat, and that's sad" > one/two/three/18curious
 echo "is boring, unless it's about puppies because puppies are awesome" > one/two/19history
 echo "the creek without paddle will make me late for dinner" > us/them/20up
-echo "take you out for a steak dinner" > this/05gonna
 
